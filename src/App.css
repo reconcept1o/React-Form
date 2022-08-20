@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+body {
+  background-color: rgb(232, 170, 126);
+}
+
+
+#floatingPassword{
+  height: 40px;
+}
+
+
+
+
+
+h2{
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+h5{
+  justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+.X{
+  justify-content: center;
+    text-align: center;
+    display:flex;
+}
+
+
+
+
